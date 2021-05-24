@@ -1,5 +1,5 @@
 # leetcode
-![LeetCode](https://icons-for-free.com/download-icon-leetcode-1324440188150828926_32.png)
+![LeetCode](https://images.app.goo.gl/cfDN3wZwuFvAvFcX8)
 
 
 Here I will place the tasks that I solved on leetcode.com.
